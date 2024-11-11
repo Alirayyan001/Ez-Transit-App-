@@ -5,7 +5,7 @@ const announcementsRouter = require('./routes/announcements');
 const authRouter = require('./routes/auth');
 const topupRouter = require('./routes/topup');
 const walletRouter = require('./routes/wallet');
-
+const journeyRouter = require('./routes/journey')
 
 
 // Load config
